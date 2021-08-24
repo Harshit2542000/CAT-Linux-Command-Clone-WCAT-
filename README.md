@@ -1,7 +1,7 @@
 # CAT-Linux-Command-Clone(WCAT)
 This project is about the linux cat command.I have made a clone of cat command of linux and named it wcat here.
 
-Here we have several operations that we could implement using WCAT Command.These Are:-
+Here we have several flags that we could implement using WCAT Command.These Are:-
 
 1.-rs->Used to remove spaces from the given files.
 
